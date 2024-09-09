@@ -1,6 +1,7 @@
 # FoodRecipe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+
 **SavoryCanvas** is a fun and easy-to-use website where you can find all kinds of food recipes. As my first Angular project, it’s designed to help you explore and enjoy cooking with a simple and creative layout. Whether you’re an experienced cook or just getting started, SavoryCanvas has a variety of recipes to inspire your next meal. Discover new flavors and make your cooking experience enjoyable!
 
 ## Development server
